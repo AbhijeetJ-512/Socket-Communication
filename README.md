@@ -2,6 +2,11 @@
 
 This repository contains simple server-client communication code.
 
+## Requirements
+
+- C compiler (e.g., gcc)
+- POSIX-compliant operating system (Linux, Unix, macOS)
+  
 ## UDP Protocol Communication
 
 ### Overview
